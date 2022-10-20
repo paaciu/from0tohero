@@ -1,3 +1,5 @@
+package firstex;
+
 import java.util.Scanner;
 
 public class firstex {
@@ -13,7 +15,7 @@ public class firstex {
         int third = in.nextInt();
         if (first == second && second == third){
             System.out.println("Entered numbers are equal.");
-        } else{
+        } else {
             System.out.println("Entered numbers are not equal.");
         }
     }

@@ -1,3 +1,5 @@
+package exc1;
+
 import java.util.Scanner;
 
 public class exc1 {
