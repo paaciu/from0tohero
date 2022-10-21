@@ -4,17 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55c4e569-3eb5-4ff9-8639-27cb2c6864b7" name="Changes" comment="next exercise">
+    <list default="true" id="55c4e569-3eb5-4ff9-8639-27cb2c6864b7" name="Changes" comment="day7&amp;8 hackerrank">
       <change afterPath="$PROJECT_DIR$/src/exc7/exc7.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/exc8/exc8.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exc1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exc1/exc1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exc2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exc2/exc2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exc3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exc3/exc3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exc4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exc4/exc4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exc5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exc5/exc5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exc6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exc6/exc6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/firstex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/firstex/firstex.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +33,7 @@
     </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="exc7" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -71,7 +64,7 @@
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.exc6">
+  <component name="RunManager" selected="Application.exc8">
     <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="firstex" />
       <module name="from0tohero" />
@@ -135,6 +128,7 @@
     </configuration>
     <list>
       <item itemvalue="Application.Unnamed" />
+      <item itemvalue="Application.exc3" />
       <item itemvalue="Application.exc8" />
       <item itemvalue="Application.exc7" />
       <item itemvalue="Application.exc4" />
@@ -143,11 +137,11 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.exc8" />
         <item itemvalue="Application.exc6" />
         <item itemvalue="Application.exc5" />
         <item itemvalue="Application.exc4" />
         <item itemvalue="Application.exc7" />
-        <item itemvalue="Application.exc8" />
       </list>
     </recent_temporary>
   </component>
@@ -226,6 +220,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="next excercise" />
-    <option name="LAST_COMMIT_MESSAGE" value="next excercise" />
+    <MESSAGE value="day7&amp;8 hackerrank" />
+    <option name="LAST_COMMIT_MESSAGE" value="day7&amp;8 hackerrank" />
   </component>
 </project>
