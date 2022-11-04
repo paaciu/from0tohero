@@ -4,12 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55c4e569-3eb5-4ff9-8639-27cb2c6864b7" name="Changes" comment="day7&amp;8 hackerrank">
-      <change afterPath="$PROJECT_DIR$/src/dequeue/dequeue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exc9/exc9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/isPalindrome/isPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/recursionex1/recursionex1.java" afterDir="false" />
+    <list default="true" id="55c4e569-3eb5-4ff9-8639-27cb2c6864b7" name="Changes" comment="day9 hackerrank &amp; few others">
+      <change afterPath="$PROJECT_DIR$/src/exc10/Exc10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exc11/Exc11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exc12/Exc12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exc13/Exc13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exc14/Exc14.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dequeue/dequeue.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,10 +37,11 @@
     </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="exc8" />
+        <entry key="$PROJECT_DIR$" value="exc9" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -63,10 +66,76 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.bracketCheck">
+  <component name="RunManager" selected="Application.Exc14">
+    <configuration name="Exc10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exc10.Exc10" />
+      <module name="from0tohero" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exc10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exc11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exc11.Exc11" />
+      <module name="from0tohero" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exc11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exc12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exc12.Exc12" />
+      <module name="from0tohero" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exc12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exc12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exc12.Exc12" />
+      <module name="from0tohero" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exc12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exc14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exc14.Exc14" />
+      <module name="from0tohero" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exc14.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="firstex" />
       <module name="from0tohero" />
@@ -74,86 +143,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="bracketCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bracketCheck.bracketCheck" />
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test" />
       <module name="from0tohero" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="bracketCheck.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="exc8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exc8.exc8" />
-      <module name="from0tohero" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exc8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="exc9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exc9.exc9" />
-      <module name="from0tohero" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exc9.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="isPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="isPalindrome.isPalindrome" />
-      <module name="from0tohero" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="isPalindrome.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="recursionex1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="recursionex1.recursionex1" />
-      <module name="from0tohero" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="recursionex1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
       <item itemvalue="Application.Unnamed" />
-      <item itemvalue="Application.bracketCheck" />
-      <item itemvalue="Application.isPalindrome" />
-      <item itemvalue="Application.exc9" />
-      <item itemvalue="Application.recursionex1" />
-      <item itemvalue="Application.exc8" />
+      <item itemvalue="Application.Exc14" />
+      <item itemvalue="Application.Exc12" />
+      <item itemvalue="Application.Exc11" />
+      <item itemvalue="Application.Exc10" />
+      <item itemvalue="Application.test" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.bracketCheck" />
-        <item itemvalue="Application.isPalindrome" />
-        <item itemvalue="Application.recursionex1" />
-        <item itemvalue="Application.exc9" />
-        <item itemvalue="Application.exc8" />
+        <item itemvalue="Application.Exc14" />
+        <item itemvalue="Application.Exc12" />
+        <item itemvalue="Application.Exc12" />
+        <item itemvalue="Application.Exc11" />
+        <item itemvalue="Application.Exc10" />
       </list>
     </recent_temporary>
   </component>
@@ -172,7 +183,14 @@
       <workItem from="1666203882586" duration="1935000" />
       <workItem from="1666265942065" duration="5090000" />
       <workItem from="1666365084823" duration="3069000" />
-      <workItem from="1666377481077" duration="5244000" />
+      <workItem from="1666377481077" duration="6259000" />
+      <workItem from="1666430681491" duration="597000" />
+      <workItem from="1667136170581" duration="7395000" />
+      <workItem from="1667315583546" duration="1388000" />
+      <workItem from="1667401756374" duration="13525000" />
+      <workItem from="1667492833805" duration="6787000" />
+      <workItem from="1667506148985" duration="4030000" />
+      <workItem from="1667601562385" duration="3016000" />
     </task>
     <task id="LOCAL-00001" summary="next excercise">
       <created>1666111261962</created>
@@ -188,7 +206,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666301534804</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="day9 hackerrank &amp; few others">
+      <created>1666382973646</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1666382973646</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -242,6 +267,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="next excercise" />
     <MESSAGE value="day7&amp;8 hackerrank" />
-    <option name="LAST_COMMIT_MESSAGE" value="day7&amp;8 hackerrank" />
+    <MESSAGE value="day9 hackerrank &amp; few others" />
+    <option name="LAST_COMMIT_MESSAGE" value="day9 hackerrank &amp; few others" />
   </component>
 </project>
